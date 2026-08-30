@@ -76,3 +76,4 @@ This helps understand which sales method contributes the most to Adidas's revenu
 
 Screenshots:
 page1 : https://github.com/Harsha2359/Dashboard/blob/main/Screenshot%202026-08-11%20140510.png
+page2 : https://github.com/Harsha2359/Dashboard/blob/main/Screenshot%202026-08-11%20140519.png
